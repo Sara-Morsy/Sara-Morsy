@@ -4,7 +4,7 @@
 </div>
 
 ---
-
+### :woman_technologist: About Me :
 - 🔭 I’m currently working on developing snakemake workflows, MRI analysis, meta-omics and FAIR data
 - 💬 Ask me about precision medicine, biostatistics and data science
 - This profile contains code related to my research projects
